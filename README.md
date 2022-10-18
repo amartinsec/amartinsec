@@ -1,5 +1,6 @@
-#  About Me:
-👨‍💻 Red Team Engineer
+# About Me:
+👨‍💻 Red Team Engineer with a focus on pentesting and research
+
 
 
 ## 🌐 Socials:
