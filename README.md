@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 Red Team Engineer with a focus on pentesting and research
+👨‍💻 Red Team Engineer with a focus on pentesting/research
 
 
 
