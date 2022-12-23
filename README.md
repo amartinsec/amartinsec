@@ -1,5 +1,4 @@
 <!-- What Doth Life??? -->
-# About Me:
 👨‍💻 Red Team Engineer with a focus on pentesting/research
 
 
