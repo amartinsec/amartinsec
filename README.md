@@ -1,7 +1,7 @@
 <!-- This profile README.md was shamelessly made after seeing a Tiktok about it -->
 <!-- What Doth Life??? -->
 <!-- https://www.youtube.com/watch?v=H49oBOP3kd0 --> 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514745/7530/hackerman.jpg?1643514745" width=3%> Red Team Engineer who likes pentesting+research 
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514745/7530/hackerman.jpg?1643514745" width=3%> Red Team Engineer who likes pentesting + research 
 <br>
 
 
